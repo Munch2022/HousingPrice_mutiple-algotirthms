@@ -1,6 +1,20 @@
 # HousingPrice_mutiple-algotirthms
 The repo contains 3 different ML algorithms to check the accuracy
 
+Table of contents - Notebook cover all of the below
+
+🎯 Probelm Statement
+
+🎯 Libraries
+
+🎯 Getting the Data
+
+🎯 A Quick Look at our Data
+
+🎯 Exploratory Data Analysis 📊
+
+🎯 Conclusions
+
 ### Problem statement: Need to predict the housing price with different ML algorthms to see which suits better to solve the problem
 
 ### About the dataset:
